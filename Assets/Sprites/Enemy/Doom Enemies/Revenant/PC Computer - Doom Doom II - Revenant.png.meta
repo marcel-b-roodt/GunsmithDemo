@@ -1,0 +1,1999 @@
+fileFormatVersion: 2
+guid: ade481ce772b61f47a2014cce9ec8424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC Computer - Doom Doom II - Revenant_0
+  - first:
+      213: 21300002
+    second: PC Computer - Doom Doom II - Revenant_1
+  - first:
+      213: 21300004
+    second: PC Computer - Doom Doom II - Revenant_2
+  - first:
+      213: 21300006
+    second: PC Computer - Doom Doom II - Revenant_3
+  - first:
+      213: 21300008
+    second: PC Computer - Doom Doom II - Revenant_4
+  - first:
+      213: 21300010
+    second: PC Computer - Doom Doom II - Revenant_5
+  - first:
+      213: 21300012
+    second: PC Computer - Doom Doom II - Revenant_6
+  - first:
+      213: 21300014
+    second: PC Computer - Doom Doom II - Revenant_7
+  - first:
+      213: 21300016
+    second: PC Computer - Doom Doom II - Revenant_8
+  - first:
+      213: 21300018
+    second: PC Computer - Doom Doom II - Revenant_9
+  - first:
+      213: 21300020
+    second: PC Computer - Doom Doom II - Revenant_10
+  - first:
+      213: 21300022
+    second: PC Computer - Doom Doom II - Revenant_11
+  - first:
+      213: 21300024
+    second: PC Computer - Doom Doom II - Revenant_12
+  - first:
+      213: 21300026
+    second: PC Computer - Doom Doom II - Revenant_13
+  - first:
+      213: 21300028
+    second: PC Computer - Doom Doom II - Revenant_14
+  - first:
+      213: 21300030
+    second: PC Computer - Doom Doom II - Revenant_15
+  - first:
+      213: 21300032
+    second: PC Computer - Doom Doom II - Revenant_16
+  - first:
+      213: 21300034
+    second: PC Computer - Doom Doom II - Revenant_17
+  - first:
+      213: 21300036
+    second: PC Computer - Doom Doom II - Revenant_18
+  - first:
+      213: 21300038
+    second: PC Computer - Doom Doom II - Revenant_19
+  - first:
+      213: 21300040
+    second: PC Computer - Doom Doom II - Revenant_20
+  - first:
+      213: 21300042
+    second: PC Computer - Doom Doom II - Revenant_21
+  - first:
+      213: 21300044
+    second: PC Computer - Doom Doom II - Revenant_22
+  - first:
+      213: 21300046
+    second: PC Computer - Doom Doom II - Revenant_23
+  - first:
+      213: 21300048
+    second: PC Computer - Doom Doom II - Revenant_24
+  - first:
+      213: 21300050
+    second: PC Computer - Doom Doom II - Revenant_25
+  - first:
+      213: 21300052
+    second: PC Computer - Doom Doom II - Revenant_26
+  - first:
+      213: 21300054
+    second: PC Computer - Doom Doom II - Revenant_27
+  - first:
+      213: 21300056
+    second: PC Computer - Doom Doom II - Revenant_28
+  - first:
+      213: 21300058
+    second: PC Computer - Doom Doom II - Revenant_29
+  - first:
+      213: 21300060
+    second: PC Computer - Doom Doom II - Revenant_30
+  - first:
+      213: 21300062
+    second: PC Computer - Doom Doom II - Revenant_31
+  - first:
+      213: 21300064
+    second: PC Computer - Doom Doom II - Revenant_32
+  - first:
+      213: 21300066
+    second: PC Computer - Doom Doom II - Revenant_33
+  - first:
+      213: 21300068
+    second: PC Computer - Doom Doom II - Revenant_34
+  - first:
+      213: 21300070
+    second: PC Computer - Doom Doom II - Revenant_35
+  - first:
+      213: 21300072
+    second: PC Computer - Doom Doom II - Revenant_36
+  - first:
+      213: 21300074
+    second: PC Computer - Doom Doom II - Revenant_37
+  - first:
+      213: 21300076
+    second: PC Computer - Doom Doom II - Revenant_38
+  - first:
+      213: 21300078
+    second: PC Computer - Doom Doom II - Revenant_39
+  - first:
+      213: 21300080
+    second: PC Computer - Doom Doom II - Revenant_40
+  - first:
+      213: 21300082
+    second: PC Computer - Doom Doom II - Revenant_41
+  - first:
+      213: 21300084
+    second: PC Computer - Doom Doom II - Revenant_42
+  - first:
+      213: 21300086
+    second: PC Computer - Doom Doom II - Revenant_43
+  - first:
+      213: 21300088
+    second: PC Computer - Doom Doom II - Revenant_44
+  - first:
+      213: 21300090
+    second: PC Computer - Doom Doom II - Revenant_45
+  - first:
+      213: 21300092
+    second: PC Computer - Doom Doom II - Revenant_46
+  - first:
+      213: 21300094
+    second: PC Computer - Doom Doom II - Revenant_47
+  - first:
+      213: 21300096
+    second: PC Computer - Doom Doom II - Revenant_48
+  - first:
+      213: 21300098
+    second: PC Computer - Doom Doom II - Revenant_49
+  - first:
+      213: 21300100
+    second: PC Computer - Doom Doom II - Revenant_50
+  - first:
+      213: 21300102
+    second: PC Computer - Doom Doom II - Revenant_51
+  - first:
+      213: 21300104
+    second: PC Computer - Doom Doom II - Revenant_52
+  - first:
+      213: 21300106
+    second: PC Computer - Doom Doom II - Revenant_53
+  - first:
+      213: 21300108
+    second: PC Computer - Doom Doom II - Revenant_54
+  - first:
+      213: 21300110
+    second: PC Computer - Doom Doom II - Revenant_55
+  - first:
+      213: 21300112
+    second: PC Computer - Doom Doom II - Revenant_56
+  - first:
+      213: 21300114
+    second: PC Computer - Doom Doom II - Revenant_57
+  - first:
+      213: 21300116
+    second: PC Computer - Doom Doom II - Revenant_58
+  - first:
+      213: 21300118
+    second: PC Computer - Doom Doom II - Revenant_59
+  - first:
+      213: 21300120
+    second: PC Computer - Doom Doom II - Revenant_60
+  - first:
+      213: 21300122
+    second: PC Computer - Doom Doom II - Revenant_61
+  - first:
+      213: 21300124
+    second: PC Computer - Doom Doom II - Revenant_62
+  - first:
+      213: 21300126
+    second: PC Computer - Doom Doom II - Revenant_63
+  - first:
+      213: 21300128
+    second: PC Computer - Doom Doom II - Revenant_64
+  - first:
+      213: 21300130
+    second: PC Computer - Doom Doom II - Revenant_65
+  - first:
+      213: 21300132
+    second: PC Computer - Doom Doom II - Revenant_66
+  - first:
+      213: 21300134
+    second: PC Computer - Doom Doom II - Revenant_67
+  - first:
+      213: 21300136
+    second: PC Computer - Doom Doom II - Revenant_68
+  - first:
+      213: 21300138
+    second: PC Computer - Doom Doom II - Revenant_69
+  - first:
+      213: 21300140
+    second: PC Computer - Doom Doom II - Revenant_70
+  - first:
+      213: 21300142
+    second: PC Computer - Doom Doom II - Revenant_71
+  - first:
+      213: 21300144
+    second: PC Computer - Doom Doom II - Revenant_72
+  - first:
+      213: 21300146
+    second: PC Computer - Doom Doom II - Revenant_73
+  - first:
+      213: 21300148
+    second: PC Computer - Doom Doom II - Revenant_74
+  - first:
+      213: 21300150
+    second: PC Computer - Doom Doom II - Revenant_75
+  - first:
+      213: 21300152
+    second: PC Computer - Doom Doom II - Revenant_76
+  - first:
+      213: 21300154
+    second: PC Computer - Doom Doom II - Revenant_77
+  - first:
+      213: 21300156
+    second: PC Computer - Doom Doom II - Revenant_78
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1016
+        width: 40
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4eb12c55b5bf41ac82a67fb17e15b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1014
+        width: 55
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc73d50858c424881278dd44368023
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1018
+        width: 67
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8e5088b363c8540b0a52dcb0ef6960
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1020
+        width: 66
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a0486998e4114ba41ea9b2d226474
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1020
+        width: 37
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbad159b2073f441bbd251d0d4f1fc1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1019
+        width: 52
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20082338633dc0e4f9b919b238895e87
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1019
+        width: 71
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fecf084d73bf2d4b8ea0b6a3970008b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1016
+        width: 67
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fad55a6273fc0448dd33524d40ade3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 896
+        width: 56
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782f699e676f2d64ab9d250bf5c01182
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 895
+        width: 56
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ea7d458bbccf47a766bb8cf0cdb23
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 898
+        width: 50
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52944a7eb7538448833839d8828433
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 900
+        width: 47
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4ca69b5b6aba4582d8e8f187b4bd6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 903
+        width: 52
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff7e5794a7e88e4cb011d4e5733cfe9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 902
+        width: 53
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28857290eafdf334186fbc0ca310e617
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 901
+        width: 52
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082895df82dec7148a5d212bd8ddde72
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 898
+        width: 53
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caff56531eef4a46bf0a4eb78ff871c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 775
+        width: 68
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34987d5db302c488a4289361535a7f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 770
+        width: 51
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224bfdec58c0c648a64aac680df6c47
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 772
+        width: 30
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274b7bb59b278a429b77d707fa8d320
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 775
+        width: 62
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48271a9011bf3049bfd55a35081bfe1
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 777
+        width: 63
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74879018721d5641a93401c0bb5dd33
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 779
+        width: 48
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232edf20d54dc7442b9d3e9412aef81b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 777
+        width: 34
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd598f5d5f859c47a927e870477ccaf
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_23
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 774
+        width: 62
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941cb4c1e4e5caf48b45fe2c6b3d9359
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 665
+        width: 56
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff84b6ad1ab1544c9fbe6efce578325
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 664
+        width: 52
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90886eb7bfe293148a1f8b7b0232471d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 664
+        width: 69
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e29ac00c2ff8324098bc1152f8ed2f4
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 661
+        width: 77
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75036f1123c868c45a968edd859c54c3
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 661
+        width: 62
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f72b09bdd03f439f6c2a95584a6e5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 663
+        width: 53
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881975754fa419e44a1dda618adf8cea
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_30
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 666
+        width: 71
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8edd5a1863ca4598b61f2c3d2cfd6
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 664
+        width: 75
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dab6a07db854a4a981d96e0e94835f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 545
+        width: 61
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c394566dc67e43b09ead837e346fc
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 546
+        width: 72
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac11609c8425e42ab90d9e61f8cbe0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 547
+        width: 67
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5ed2ced2ba724dada609259de89e7
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 547
+        width: 43
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b51b3f24e0b347bce92917047aeda
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_36
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 548
+        width: 58
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9f91d16eb0ea4fb61ab176b20ef1d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 551
+        width: 74
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d97a55bed9d94f8e03d7090819406
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_38
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 550
+        width: 69
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dddb51c8d57d446a9a5880d37eed49
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_39
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 547
+        width: 43
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85fdeba20da2f4295f54ee527f2a0b
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 446
+        width: 47
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862918eb841ede84490aa0eedd87a884
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 445
+        width: 61
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7fdf93295a1b4e8771397bd5bf7ff
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 447
+        width: 74
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260a97045ec2d04c8a637d39da0896d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 448
+        width: 59
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0f1b58b09d514e8e59c0e8d315e39
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 448
+        width: 40
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67480d1f1c7673b4ba9a357c59ef47f5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 449
+        width: 61
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e6f4cef64a72a42aead16df15c3d79
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 449
+        width: 74
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb12df7fbea574eb298d21fecfbb3c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 446
+        width: 62
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771fc3667c557db44a2c041e1fbf9727
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 341
+        width: 49
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adea651185e9534db3b46e190fa85f7
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341
+        width: 50
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ea4ee9f875ad43918667ae790ffb4
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 342
+        width: 51
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9d1fa2945318745b628d8f0dd40ed0
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_51
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 344
+        width: 56
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a233be90f3a2fe4a9efe808f1db2315
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_52
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 346
+        width: 46
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba745f1137dad4f923c1536876fc48
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_53
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 345
+        width: 51
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030a8d4a6d820bb4e8de073e5539fe3b
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_54
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 345
+        width: 48
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b090baa0ab2174fb0f2f35d7e6b413
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 343
+        width: 56
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7836b7c769fe4387990ae914b20dc
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 229
+        width: 49
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281534aad8f74ca4f80d0bfc67290c80
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 230
+        width: 54
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ff1b356285ed4abc8653620aab53e
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 46
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b977ef2169bff204ca525cb393890944
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_59
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 231
+        width: 48
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ea624945ec4340a2036baa26af8c4
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_60
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 230
+        width: 49
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85ad56bed55dfc46882269cb6648e79
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 231
+        width: 48
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946da2f7350cde44eab4f5746186cee8
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_62
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 229
+        width: 46
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7ff982ede80f044b5430ba6060d1ea
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_63
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 228
+        width: 43
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c055da8e74d44496063280878b671
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 123
+        width: 66
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b150a9424605469c65a3e407468b3
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 44
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12ad1b655b9c743a27730385623772
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 124
+        width: 59
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84e08fd652f4cb47a25a46b34a176a6
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 122
+        width: 73
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d834ad832f2c0468a054763d33bed0
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 121
+        width: 60
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669378fdec8ca749b4bf7b8ccf14056
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_69
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 122
+        width: 46
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0a24765a921346941d626454bbc8d
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 123
+        width: 57
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50223e57f5b764193fd38b442cc263
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_71
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 122
+        width: 69
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571607a64cb90c42990b1e8ac62c7c9
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 56
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda6df635f8102745bb20cc70f6ab374
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 82
+        width: 6
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a6df0f7c52184bb7a2096a2c0a54a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 83
+        width: 5
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e2879b39dfd2048987a0d057366210
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 74
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602453cf1a9ba844e8ab5fcbcd68f178
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 33
+        width: 65
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a69120d6095e4a9637101235d25ab
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 50
+        width: 62
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32899a387290b5741b22def2ffc80139
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Revenant_78
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 66
+        width: 65
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e31a9a4efd37f4c9161e2090bcee36
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2653e19d57c360e4d9d9718e270b46a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

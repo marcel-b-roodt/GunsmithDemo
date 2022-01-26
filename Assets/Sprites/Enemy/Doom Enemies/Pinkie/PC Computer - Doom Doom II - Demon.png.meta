@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: d445082eaaa367c41aca9394bb35cabb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC Computer - Doom Doom II - Demon_0
+  - first:
+      213: 21300002
+    second: PC Computer - Doom Doom II - Demon_1
+  - first:
+      213: 21300004
+    second: PC Computer - Doom Doom II - Demon_2
+  - first:
+      213: 21300006
+    second: PC Computer - Doom Doom II - Demon_3
+  - first:
+      213: 21300008
+    second: PC Computer - Doom Doom II - Demon_4
+  - first:
+      213: 21300010
+    second: PC Computer - Doom Doom II - Demon_5
+  - first:
+      213: 21300012
+    second: PC Computer - Doom Doom II - Demon_6
+  - first:
+      213: 21300014
+    second: PC Computer - Doom Doom II - Demon_7
+  - first:
+      213: 21300016
+    second: PC Computer - Doom Doom II - Demon_8
+  - first:
+      213: 21300018
+    second: PC Computer - Doom Doom II - Demon_9
+  - first:
+      213: 21300020
+    second: PC Computer - Doom Doom II - Demon_10
+  - first:
+      213: 21300022
+    second: PC Computer - Doom Doom II - Demon_11
+  - first:
+      213: 21300024
+    second: PC Computer - Doom Doom II - Demon_12
+  - first:
+      213: 21300026
+    second: PC Computer - Doom Doom II - Demon_13
+  - first:
+      213: 21300028
+    second: PC Computer - Doom Doom II - Demon_14
+  - first:
+      213: 21300030
+    second: PC Computer - Doom Doom II - Demon_15
+  - first:
+      213: 21300032
+    second: PC Computer - Doom Doom II - Demon_16
+  - first:
+      213: 21300034
+    second: PC Computer - Doom Doom II - Demon_17
+  - first:
+      213: 21300036
+    second: PC Computer - Doom Doom II - Demon_18
+  - first:
+      213: 21300038
+    second: PC Computer - Doom Doom II - Demon_19
+  - first:
+      213: 21300040
+    second: PC Computer - Doom Doom II - Demon_20
+  - first:
+      213: 21300042
+    second: PC Computer - Doom Doom II - Demon_21
+  - first:
+      213: 21300044
+    second: PC Computer - Doom Doom II - Demon_22
+  - first:
+      213: 21300046
+    second: PC Computer - Doom Doom II - Demon_23
+  - first:
+      213: 21300048
+    second: PC Computer - Doom Doom II - Demon_24
+  - first:
+      213: 21300050
+    second: PC Computer - Doom Doom II - Demon_25
+  - first:
+      213: 21300052
+    second: PC Computer - Doom Doom II - Demon_26
+  - first:
+      213: 21300054
+    second: PC Computer - Doom Doom II - Demon_27
+  - first:
+      213: 21300056
+    second: PC Computer - Doom Doom II - Demon_28
+  - first:
+      213: 21300058
+    second: PC Computer - Doom Doom II - Demon_29
+  - first:
+      213: 21300060
+    second: PC Computer - Doom Doom II - Demon_30
+  - first:
+      213: 21300062
+    second: PC Computer - Doom Doom II - Demon_31
+  - first:
+      213: 21300064
+    second: PC Computer - Doom Doom II - Demon_32
+  - first:
+      213: 21300066
+    second: PC Computer - Doom Doom II - Demon_33
+  - first:
+      213: 21300068
+    second: PC Computer - Doom Doom II - Demon_34
+  - first:
+      213: 21300070
+    second: PC Computer - Doom Doom II - Demon_35
+  - first:
+      213: 21300072
+    second: PC Computer - Doom Doom II - Demon_36
+  - first:
+      213: 21300074
+    second: PC Computer - Doom Doom II - Demon_37
+  - first:
+      213: 21300076
+    second: PC Computer - Doom Doom II - Demon_38
+  - first:
+      213: 21300078
+    second: PC Computer - Doom Doom II - Demon_39
+  - first:
+      213: 21300080
+    second: PC Computer - Doom Doom II - Demon_40
+  - first:
+      213: 21300082
+    second: PC Computer - Doom Doom II - Demon_41
+  - first:
+      213: 21300084
+    second: PC Computer - Doom Doom II - Demon_42
+  - first:
+      213: 21300086
+    second: PC Computer - Doom Doom II - Demon_43
+  - first:
+      213: 21300088
+    second: PC Computer - Doom Doom II - Demon_44
+  - first:
+      213: 21300090
+    second: PC Computer - Doom Doom II - Demon_45
+  - first:
+      213: 21300092
+    second: PC Computer - Doom Doom II - Demon_46
+  - first:
+      213: 21300094
+    second: PC Computer - Doom Doom II - Demon_47
+  - first:
+      213: 21300096
+    second: PC Computer - Doom Doom II - Demon_48
+  - first:
+      213: 21300098
+    second: PC Computer - Doom Doom II - Demon_49
+  - first:
+      213: 21300100
+    second: PC Computer - Doom Doom II - Demon_50
+  - first:
+      213: 21300102
+    second: PC Computer - Doom Doom II - Demon_51
+  - first:
+      213: 21300104
+    second: PC Computer - Doom Doom II - Demon_52
+  - first:
+      213: 21300106
+    second: PC Computer - Doom Doom II - Demon_53
+  - first:
+      213: 21300108
+    second: PC Computer - Doom Doom II - Demon_54
+  - first:
+      213: 21300110
+    second: PC Computer - Doom Doom II - Demon_55
+  - first:
+      213: 21300112
+    second: PC Computer - Doom Doom II - Demon_56
+  - first:
+      213: 21300114
+    second: PC Computer - Doom Doom II - Demon_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 726
+        width: 40
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbcccbb6cb6a8247959871d44a016c7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 727
+        width: 57
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56597a54fdc1ec49923dede7bd42910
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 729
+        width: 60
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5461d6dec6995499a0ec48a69db042
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 729
+        width: 54
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de7745a7d62a4408b13cb52578b4b7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 728
+        width: 35
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3446e882c5ae48488c4ef8d94ab92c5
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 635
+        width: 43
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db97e19d10155948b0bad834023737c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 634
+        width: 50
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff70f7ee5f1f6b4eb16eeaeab9a1a18
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 637
+        width: 58
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118eac19bc00004b9cb4633e693472a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 640
+        width: 52
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc389179ea0c74b91427dcc5153b98
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 640
+        width: 39
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42948e5524104ac4b87f62a56f2fe0f0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 40
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d267423cbebacb94692e9015484951f1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 549
+        width: 56
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f1ef4115d0074c876bae53cad6830
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 548
+        width: 60
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a61391de2ce824bb29691c6f27d8a5
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 548
+        width: 48
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5632fffcf097a499395f9faa829e4d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 547
+        width: 35
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eff51e3249b4845ac4d96c17965769
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 455
+        width: 43
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b253dd98f8a3034448aae7cb74466e49
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 457
+        width: 54
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6bcc9ca4178bb4c8888af482c9eedb
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 457
+        width: 59
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb6b8768835e44d919c1b7cc8a2434
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 459
+        width: 45
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3471a5e4fbf9748aef45035278d981
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 460
+        width: 39
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a4375c251bd6c4393995d45cd4899d
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 367
+        width: 44
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa567e28bb6a045b4ba1f673fbb476
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 367
+        width: 48
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198884919a24b634ba2bc2a064a92a08
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 371
+        width: 60
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d82a397166e864ab9a73be172be9ee
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 372
+        width: 52
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80260b160a24e046b31ea95d005d6ce
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 371
+        width: 42
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b7c7df0cd38f34abe8589c901814a0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 372
+        width: 47
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0862a287a25ab4d9a2f5797d0a44e2
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 372
+        width: 58
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e775cd447b3e4bbef724f0ec1fe64
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_27
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 368
+        width: 53
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2505eac96c1e134488d35c3a4593bcae
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 279
+        width: 44
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105041206459a0741a7a219e148d4bbd
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 279
+        width: 50
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3bea8ab1e9b214fad8c9cd220156bf
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 283
+        width: 67
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a84014de411ff438efbffd811311d8
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 283
+        width: 55
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d94ac6f91c1a44ebdc86b99d6e4edc
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 282
+        width: 42
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccceecd335b7b48b572b03f753a668
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 284
+        width: 50
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae9db3db2826345bd05786f68027ff
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 283
+        width: 63
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b962e0b075048b4688fba0d7670d00d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_35
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 280
+        width: 55
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d3a68b4ec623448b6a102c7b317000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 191
+        width: 44
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401af128dcd4cfc4fb77dc85e3e3ce0a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 188
+        width: 52
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c480e09d374bfb4dbb702a5c1783ce0
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 193
+        width: 70
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d393caa6836e98499abca602fb50915
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 194
+        width: 57
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146dfd778a6347b43a789a897c1d8680
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_40
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 192
+        width: 42
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333bd206567dfab45aea4b4c5e4b6162
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_41
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 196
+        width: 54
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020a6d8a3b629ad4193f02719e894f4a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_42
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 194
+        width: 66
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5fe2b3b1c0544998b5a421be08f75
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 191
+        width: 57
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de660694cece07a418882939036948c4
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 100
+        width: 38
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f48525b64f553498c17efd5e30ad4c
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 49
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc5faf6a6c390498b3388d60d85b62
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 104
+        width: 57
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849e51432d2d73c4394c0b9898b58b25
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 106
+        width: 50
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f635143ff9e4c4090a42442a4f5fff
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 107
+        width: 35
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492ea7f956abc54ba0e0d18f0847b17
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_49
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 107
+        width: 41
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a182ad013b13b44a957215b3ae3b82
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_50
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 105
+        width: 55
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507aac37e1423e4a9c494fab0509ae1
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_51
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 103
+        width: 54
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb08d3c143adb44843c24449db2eae
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 11
+        width: 54
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8d607ee8e0ee46bb8d2f165e7387a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 60
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ebe8500a4ab64c92d22bd0974b059
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 14
+        width: 52
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674b98c574fa3f42afc9207d4ea29b9
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 10
+        width: 62
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3cfe52dc3059b4e951747c35f1c779
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 21
+        width: 64
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28266872158834ebc34f0f5c9116ed
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Demon_57
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 35
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09dafbfaea3604bbe0f1f371c5b80e
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 68990338d14a85e44921de7fd3e64e10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

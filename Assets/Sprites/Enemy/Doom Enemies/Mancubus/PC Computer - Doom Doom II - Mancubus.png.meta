@@ -1,0 +1,1663 @@
+fileFormatVersion: 2
+guid: 26823d4b7960aa6449e5b182b7a76bd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC Computer - Doom Doom II - Mancubus_0
+  - first:
+      213: 21300002
+    second: PC Computer - Doom Doom II - Mancubus_1
+  - first:
+      213: 21300004
+    second: PC Computer - Doom Doom II - Mancubus_2
+  - first:
+      213: 21300006
+    second: PC Computer - Doom Doom II - Mancubus_3
+  - first:
+      213: 21300008
+    second: PC Computer - Doom Doom II - Mancubus_4
+  - first:
+      213: 21300010
+    second: PC Computer - Doom Doom II - Mancubus_5
+  - first:
+      213: 21300012
+    second: PC Computer - Doom Doom II - Mancubus_6
+  - first:
+      213: 21300014
+    second: PC Computer - Doom Doom II - Mancubus_7
+  - first:
+      213: 21300016
+    second: PC Computer - Doom Doom II - Mancubus_8
+  - first:
+      213: 21300018
+    second: PC Computer - Doom Doom II - Mancubus_9
+  - first:
+      213: 21300020
+    second: PC Computer - Doom Doom II - Mancubus_10
+  - first:
+      213: 21300022
+    second: PC Computer - Doom Doom II - Mancubus_11
+  - first:
+      213: 21300024
+    second: PC Computer - Doom Doom II - Mancubus_12
+  - first:
+      213: 21300026
+    second: PC Computer - Doom Doom II - Mancubus_13
+  - first:
+      213: 21300028
+    second: PC Computer - Doom Doom II - Mancubus_14
+  - first:
+      213: 21300030
+    second: PC Computer - Doom Doom II - Mancubus_15
+  - first:
+      213: 21300032
+    second: PC Computer - Doom Doom II - Mancubus_16
+  - first:
+      213: 21300034
+    second: PC Computer - Doom Doom II - Mancubus_17
+  - first:
+      213: 21300036
+    second: PC Computer - Doom Doom II - Mancubus_18
+  - first:
+      213: 21300038
+    second: PC Computer - Doom Doom II - Mancubus_19
+  - first:
+      213: 21300040
+    second: PC Computer - Doom Doom II - Mancubus_20
+  - first:
+      213: 21300042
+    second: PC Computer - Doom Doom II - Mancubus_21
+  - first:
+      213: 21300044
+    second: PC Computer - Doom Doom II - Mancubus_22
+  - first:
+      213: 21300046
+    second: PC Computer - Doom Doom II - Mancubus_23
+  - first:
+      213: 21300048
+    second: PC Computer - Doom Doom II - Mancubus_24
+  - first:
+      213: 21300050
+    second: PC Computer - Doom Doom II - Mancubus_25
+  - first:
+      213: 21300052
+    second: PC Computer - Doom Doom II - Mancubus_26
+  - first:
+      213: 21300054
+    second: PC Computer - Doom Doom II - Mancubus_27
+  - first:
+      213: 21300056
+    second: PC Computer - Doom Doom II - Mancubus_28
+  - first:
+      213: 21300058
+    second: PC Computer - Doom Doom II - Mancubus_29
+  - first:
+      213: 21300060
+    second: PC Computer - Doom Doom II - Mancubus_30
+  - first:
+      213: 21300062
+    second: PC Computer - Doom Doom II - Mancubus_31
+  - first:
+      213: 21300064
+    second: PC Computer - Doom Doom II - Mancubus_32
+  - first:
+      213: 21300066
+    second: PC Computer - Doom Doom II - Mancubus_33
+  - first:
+      213: 21300068
+    second: PC Computer - Doom Doom II - Mancubus_34
+  - first:
+      213: 21300070
+    second: PC Computer - Doom Doom II - Mancubus_35
+  - first:
+      213: 21300072
+    second: PC Computer - Doom Doom II - Mancubus_36
+  - first:
+      213: 21300074
+    second: PC Computer - Doom Doom II - Mancubus_37
+  - first:
+      213: 21300076
+    second: PC Computer - Doom Doom II - Mancubus_38
+  - first:
+      213: 21300078
+    second: PC Computer - Doom Doom II - Mancubus_39
+  - first:
+      213: 21300080
+    second: PC Computer - Doom Doom II - Mancubus_40
+  - first:
+      213: 21300082
+    second: PC Computer - Doom Doom II - Mancubus_41
+  - first:
+      213: 21300084
+    second: PC Computer - Doom Doom II - Mancubus_42
+  - first:
+      213: 21300086
+    second: PC Computer - Doom Doom II - Mancubus_43
+  - first:
+      213: 21300088
+    second: PC Computer - Doom Doom II - Mancubus_44
+  - first:
+      213: 21300090
+    second: PC Computer - Doom Doom II - Mancubus_45
+  - first:
+      213: 21300092
+    second: PC Computer - Doom Doom II - Mancubus_46
+  - first:
+      213: 21300094
+    second: PC Computer - Doom Doom II - Mancubus_47
+  - first:
+      213: 21300096
+    second: PC Computer - Doom Doom II - Mancubus_48
+  - first:
+      213: 21300098
+    second: PC Computer - Doom Doom II - Mancubus_49
+  - first:
+      213: 21300100
+    second: PC Computer - Doom Doom II - Mancubus_50
+  - first:
+      213: 21300102
+    second: PC Computer - Doom Doom II - Mancubus_51
+  - first:
+      213: 21300104
+    second: PC Computer - Doom Doom II - Mancubus_52
+  - first:
+      213: 21300106
+    second: PC Computer - Doom Doom II - Mancubus_53
+  - first:
+      213: 21300108
+    second: PC Computer - Doom Doom II - Mancubus_54
+  - first:
+      213: 21300110
+    second: PC Computer - Doom Doom II - Mancubus_55
+  - first:
+      213: 21300112
+    second: PC Computer - Doom Doom II - Mancubus_56
+  - first:
+      213: 21300114
+    second: PC Computer - Doom Doom II - Mancubus_61
+  - first:
+      213: 21300116
+    second: PC Computer - Doom Doom II - Mancubus_62
+  - first:
+      213: 21300118
+    second: PC Computer - Doom Doom II - Mancubus_63
+  - first:
+      213: 21300120
+    second: PC Computer - Doom Doom II - Mancubus_64
+  - first:
+      213: 21300122
+    second: PC Computer - Doom Doom II - Mancubus_65
+  - first:
+      213: 21300124
+    second: PC Computer - Doom Doom II - Mancubus_66
+  - first:
+      213: 21300126
+    second: PC Computer - Doom Doom II - Mancubus_67
+  - first:
+      213: 21300128
+    second: PC Computer - Doom Doom II - Mancubus_68
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1163
+        width: 72
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148e0bf2bed24a44b631378d7d82d2a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1162
+        width: 79
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdb15fba1456f4ca4a33d75c761805
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1163
+        width: 79
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ce8559d0adc64e9d19d6a8fdb02f4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1166
+        width: 81
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea8cfe34f7299479eeeb64407a322f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1164
+        width: 66
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47200f325c9634cb050f6d8646a444
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1059
+        width: 87
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3756ceb492ccf43927c40ff366cf59
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1059
+        width: 83
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7613e7f49ee4be4e9cade874ddf7165
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1070
+        width: 4
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a8d5c4c09c5941a4ded2eeb9730b2
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1063
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1662f75c73066f6419666f4f4f5b4691
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1063
+        width: 76
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb2228e5718964cba42ea6b13339a3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1066
+        width: 82
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291a53b30c76b474ead842be9db7e3bd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 956
+        width: 82
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1216347d8fb44ca9cfa6340bf7ef9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 958
+        width: 83
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b78fb25cf748343b082ee590bf5e57
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 960
+        width: 72
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdffdeb74a8ff2b41bbcc92282721699
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 960
+        width: 68
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da258783f11c7204fb9cc15aa7074cd3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 963
+        width: 77
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739903ca4da3a794ab4d93f9de60f71b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 858
+        width: 72
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0b0659eec0924f8d1163ac1631700
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 855
+        width: 87
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5997c724faec9488b9fb555ee5ef56
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 857
+        width: 85
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f37adbf89ba384c8fd9d5e4c767b9e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 859
+        width: 76
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ec5cbfa016964da1c4ef1131c012d
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 860
+        width: 66
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db341cffbbe1c4e8a7702aef2ef1fd
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 752
+        width: 87
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03674d9e9fe30438925cd7159a8781
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 756
+        width: 81
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbdbd5578e580e458df444f502b3b6b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 755
+        width: 68
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dbef328e376b74684d181ac1c3aa58
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 759
+        width: 75
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d9203778916941b87c629b6034597
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_25
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 760
+        width: 83
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a8298d2bfb944fbbef49a334a0f54
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 649
+        width: 82
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561b0ae1e7163fb4994c0f443a7cc7a9
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 652
+        width: 69
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b887e61173c177478d333da4c22a41f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 653
+        width: 73
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b68ace7307c846a7d207f6f999535
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 655
+        width: 72
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594381bc3047cae429096ca6d320d4c0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 656
+        width: 77
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a361ad09c28b4893928966c8c95ce
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 551
+        width: 87
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917ed1deca9049428f94a109b5ea9c1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 553
+        width: 98
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9895b9678e6d314c8f6e416aacba8c5
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 551
+        width: 80
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e94f4c425c784eb2b1f9a7a33826f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 550
+        width: 83
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232cf3a3c369250419b82152703dd1e9
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 551
+        width: 82
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08179018020047547a1288a950aae375
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 451
+        width: 83
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89da4db7ae590c4faee9768fe4cf4b9
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 476
+        width: 16
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc8c21356c58c468eda7985f245cc5
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 453
+        width: 86
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78ac51c6742c54c9c4059ad8287efb
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 450
+        width: 73
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9724effd7f5a2648b70b564a871bf99
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 451
+        width: 75
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd710eee117b8b4494256bc6f385741
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_41
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 452
+        width: 86
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebfd10ff01e53244b05aca63a84fb17
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 349
+        width: 83
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6263c6d79d7f8e44b8255cae74967ded
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 348
+        width: 95
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e7e9d78c515b48a8d40b0aa16e946
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_44
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 353
+        width: 68
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925819c0f248bb74cb8c186e2fc68ff1
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 349
+        width: 83
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580129348719c5a45a81bbdacdf89b2a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_46
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 353
+        width: 80
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa302ee4a8708464bab1b84959e60798
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 248
+        width: 74
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e89f890af5064697220b5e4fe9683
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 249
+        width: 88
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb7c855d13d4f4f96fcaec81074fc8
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 249
+        width: 61
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5ff48b8fa45b4b82ba90fcfc5c2fc
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 251
+        width: 75
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3e0519b068be4987f0817a90778d3
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 249
+        width: 61
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ba96b5dc11b64fbe674e39767970c
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 174
+        width: 77
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f007b02312415024f80a49cd660fb6c1
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 174
+        width: 75
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b55e1e616f1a4f8a3cd175a22c14f
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 172
+        width: 88
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6fa1cd8686a434887a9018e5ea1acc
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 103
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d413be3c45bd4146861371bee1ef5bb
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 101
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b322b20f99ec7364f9c79f5611db734f
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 87
+        width: 85
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd6c26d456d77c4ba75fd2fd0cc130d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_62
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 95
+        width: 84
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0713c29d3d7e8648bea6c5bd8b9674a
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 69
+        width: 95
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5dc01dcec9e954c88f6e09c7d0cf9c
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 86
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb20adffefd5564a94d200f5ce247fb
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_65
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 10
+        width: 86
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0c8b341dd77c49a9b451f03deec95
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 86
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76022b3c2cfa6e14db042e5dd2df6b5f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 11
+        width: 86
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619b9b6aa4916a4f9e2c69c05cceb0c
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Mancubus_68
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 12
+        width: 86
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c201064335b044eb092cd95bd69066
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e72b91ad32679b34ea1a85f5de7790ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

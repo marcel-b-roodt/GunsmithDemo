@@ -1,0 +1,1759 @@
+fileFormatVersion: 2
+guid: 8229d0cf291cd1e4c9a596f6a00a1951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC Computer - Doom Doom II - Former Commando_0
+  - first:
+      213: 21300002
+    second: PC Computer - Doom Doom II - Former Commando_1
+  - first:
+      213: 21300004
+    second: PC Computer - Doom Doom II - Former Commando_2
+  - first:
+      213: 21300006
+    second: PC Computer - Doom Doom II - Former Commando_3
+  - first:
+      213: 21300008
+    second: PC Computer - Doom Doom II - Former Commando_4
+  - first:
+      213: 21300010
+    second: PC Computer - Doom Doom II - Former Commando_5
+  - first:
+      213: 21300012
+    second: PC Computer - Doom Doom II - Former Commando_6
+  - first:
+      213: 21300014
+    second: PC Computer - Doom Doom II - Former Commando_7
+  - first:
+      213: 21300016
+    second: PC Computer - Doom Doom II - Former Commando_8
+  - first:
+      213: 21300018
+    second: PC Computer - Doom Doom II - Former Commando_9
+  - first:
+      213: 21300020
+    second: PC Computer - Doom Doom II - Former Commando_10
+  - first:
+      213: 21300022
+    second: PC Computer - Doom Doom II - Former Commando_11
+  - first:
+      213: 21300024
+    second: PC Computer - Doom Doom II - Former Commando_12
+  - first:
+      213: 21300026
+    second: PC Computer - Doom Doom II - Former Commando_13
+  - first:
+      213: 21300028
+    second: PC Computer - Doom Doom II - Former Commando_14
+  - first:
+      213: 21300030
+    second: PC Computer - Doom Doom II - Former Commando_15
+  - first:
+      213: 21300032
+    second: PC Computer - Doom Doom II - Former Commando_16
+  - first:
+      213: 21300034
+    second: PC Computer - Doom Doom II - Former Commando_17
+  - first:
+      213: 21300036
+    second: PC Computer - Doom Doom II - Former Commando_18
+  - first:
+      213: 21300038
+    second: PC Computer - Doom Doom II - Former Commando_19
+  - first:
+      213: 21300040
+    second: PC Computer - Doom Doom II - Former Commando_20
+  - first:
+      213: 21300042
+    second: PC Computer - Doom Doom II - Former Commando_21
+  - first:
+      213: 21300044
+    second: PC Computer - Doom Doom II - Former Commando_22
+  - first:
+      213: 21300046
+    second: PC Computer - Doom Doom II - Former Commando_23
+  - first:
+      213: 21300048
+    second: PC Computer - Doom Doom II - Former Commando_24
+  - first:
+      213: 21300050
+    second: PC Computer - Doom Doom II - Former Commando_25
+  - first:
+      213: 21300052
+    second: PC Computer - Doom Doom II - Former Commando_26
+  - first:
+      213: 21300054
+    second: PC Computer - Doom Doom II - Former Commando_27
+  - first:
+      213: 21300056
+    second: PC Computer - Doom Doom II - Former Commando_28
+  - first:
+      213: 21300058
+    second: PC Computer - Doom Doom II - Former Commando_29
+  - first:
+      213: 21300060
+    second: PC Computer - Doom Doom II - Former Commando_30
+  - first:
+      213: 21300062
+    second: PC Computer - Doom Doom II - Former Commando_31
+  - first:
+      213: 21300064
+    second: PC Computer - Doom Doom II - Former Commando_32
+  - first:
+      213: 21300066
+    second: PC Computer - Doom Doom II - Former Commando_33
+  - first:
+      213: 21300068
+    second: PC Computer - Doom Doom II - Former Commando_34
+  - first:
+      213: 21300070
+    second: PC Computer - Doom Doom II - Former Commando_35
+  - first:
+      213: 21300072
+    second: PC Computer - Doom Doom II - Former Commando_36
+  - first:
+      213: 21300074
+    second: PC Computer - Doom Doom II - Former Commando_37
+  - first:
+      213: 21300076
+    second: PC Computer - Doom Doom II - Former Commando_38
+  - first:
+      213: 21300078
+    second: PC Computer - Doom Doom II - Former Commando_39
+  - first:
+      213: 21300080
+    second: PC Computer - Doom Doom II - Former Commando_40
+  - first:
+      213: 21300082
+    second: PC Computer - Doom Doom II - Former Commando_41
+  - first:
+      213: 21300084
+    second: PC Computer - Doom Doom II - Former Commando_42
+  - first:
+      213: 21300086
+    second: PC Computer - Doom Doom II - Former Commando_43
+  - first:
+      213: 21300088
+    second: PC Computer - Doom Doom II - Former Commando_44
+  - first:
+      213: 21300090
+    second: PC Computer - Doom Doom II - Former Commando_45
+  - first:
+      213: 21300092
+    second: PC Computer - Doom Doom II - Former Commando_46
+  - first:
+      213: 21300094
+    second: PC Computer - Doom Doom II - Former Commando_47
+  - first:
+      213: 21300096
+    second: PC Computer - Doom Doom II - Former Commando_48
+  - first:
+      213: 21300098
+    second: PC Computer - Doom Doom II - Former Commando_49
+  - first:
+      213: 21300100
+    second: PC Computer - Doom Doom II - Former Commando_50
+  - first:
+      213: 21300102
+    second: PC Computer - Doom Doom II - Former Commando_51
+  - first:
+      213: 21300104
+    second: PC Computer - Doom Doom II - Former Commando_52
+  - first:
+      213: 21300106
+    second: PC Computer - Doom Doom II - Former Commando_53
+  - first:
+      213: 21300108
+    second: PC Computer - Doom Doom II - Former Commando_54
+  - first:
+      213: 21300110
+    second: PC Computer - Doom Doom II - Former Commando_55
+  - first:
+      213: 21300112
+    second: PC Computer - Doom Doom II - Former Commando_56
+  - first:
+      213: 21300114
+    second: PC Computer - Doom Doom II - Former Commando_60
+  - first:
+      213: 21300116
+    second: PC Computer - Doom Doom II - Former Commando_62
+  - first:
+      213: 21300118
+    second: PC Computer - Doom Doom II - Former Commando_64
+  - first:
+      213: 21300120
+    second: PC Computer - Doom Doom II - Former Commando_66
+  - first:
+      213: 21300122
+    second: PC Computer - Doom Doom II - Former Commando_68
+  - first:
+      213: 21300124
+    second: PC Computer - Doom Doom II - Former Commando_69
+  - first:
+      213: 21300126
+    second: PC Computer - Doom Doom II - Former Commando_70
+  - first:
+      213: 21300128
+    second: PC Computer - Doom Doom II - Former Commando_71
+  - first:
+      213: 21300130
+    second: PC Computer - Doom Doom II - Former Commando_73
+  - first:
+      213: 21300132
+    second: PC Computer - Doom Doom II - Former Commando_74
+  - first:
+      213: 21300134
+    second: PC Computer - Doom Doom II - Former Commando_75
+  - first:
+      213: 21300136
+    second: PC Computer - Doom Doom II - Former Commando_76
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 751
+        width: 42
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ac9bdb64c65d43884806d1b9d812d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 751
+        width: 43
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134749431ce8ad841b1b8c024b787dcd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 754
+        width: 47
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e436d91a624a544b96518379cedab9
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 755
+        width: 36
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd1662677c21b4ab982a27136f5a54
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 754
+        width: 41
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de28af3fbdb7d4098462b73c32d420
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 754
+        width: 33
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be838af46ade641bd48c11082b5058
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 754
+        width: 41
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db55eb77ee00374280c7022e7eeb97f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 752
+        width: 36
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06647beace8796a4286ebb98e66ebee5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 658
+        width: 45
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d3a83428f7eb946b79f27c6f56680f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 659
+        width: 35
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0622500ae2bbc4697b5ef4a1edbf7f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 660
+        width: 29
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80feefb9f3fed2b41be4f2376a14601e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 662
+        width: 30
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a760c7826ddf45a03da47678935f1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 662
+        width: 41
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28668599a1166b340b07db61a3ac207a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 661
+        width: 32
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06afe0d2fabf8f41b17b245d74eb573
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 661
+        width: 31
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa7138ab02db946b9525ba5c3cdf16
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 659
+        width: 38
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a34273a200ad74baf8b46f0e6326ca
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 566
+        width: 40
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30822d56ea7eb3449c488059c297ebd
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 566
+        width: 30
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03035e4e0d532144aa92d0c73376ce4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 569
+        width: 38
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887341282f007314795aca356c8c7dfb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 569
+        width: 30
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8121eebbf8f847458ec0dd19ea28185
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 569
+        width: 40
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6c15e77829714f93ce24a7fd3f369
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 570
+        width: 39
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3649f87a11ce494bbf16fc1a814c697
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 569
+        width: 46
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6073b455cb5814ea048bcbb93b090b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_23
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 566
+        width: 38
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3dc52f043b2084bb10943109fa44e8
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 473
+        width: 45
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553d1c2151fbd446946947ece1d15fd
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 474
+        width: 35
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ca673cb46d07f46bb60b9ff60e9859
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 476
+        width: 29
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d0be511ba7694893d87b10b207a2f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 476
+        width: 29
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4cde4de20e5a4479c610f1a0238da6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 477
+        width: 41
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e27932e0fabc64f9d56880aab7b946
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 476
+        width: 32
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4b973ce7f9e9459975e6a3aa4facc
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 475
+        width: 31
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a4f2f37aec5644bae19177d1fc425
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 474
+        width: 38
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cbf2d015ff32648b1c0656ee4fdfc7
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 382
+        width: 43
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ea5dc5bbb832428f1025aa5f7bbc5
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 382
+        width: 50
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b03a2549ae408458ec4ba499ac9ac5
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 53
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb5d7ba4449a14fb04823ec9909fd7
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 386
+        width: 39
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc1458580f24e4ab07d9415775a68c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 384
+        width: 44
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804cdecc35e21904f870c61e793d9156
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_37
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 385
+        width: 40
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad47716f8f587a4e844275295a36eef
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_38
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 384
+        width: 52
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83809e3b80c2614b9608fad25d684db
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_39
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 383
+        width: 40
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb57f74fb527a4ebe75247163cbf04
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 291
+        width: 43
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472e89b175cdd56478ccf2f7995a452e
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 291
+        width: 55
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4132b3f88bf0c44985b9b81de0f3f3d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 293
+        width: 57
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61845b7cc41d8ed41b0331da46f91259
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 295
+        width: 39
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a8e0a427a4a2429b4ebf043c27837
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_44
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 293
+        width: 44
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b7ea356d38ae468f4370e1ac7d4c8
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 294
+        width: 41
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e762455ab5352438b4d6be9310f557
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_46
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 293
+        width: 56
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96edb6fdeb3e03d48b82a70db9b738f2
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 292
+        width: 44
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255f447e19e5fe499fb68982df92aa0
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 200
+        width: 43
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979792ea13488449936b10d1c57df92
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 200
+        width: 41
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90608b8cb2e94bf4daef6594244ea185
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 202
+        width: 44
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efab5cc23e9e645b47620140628e97
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 204
+        width: 37
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f00a1295f447448929ae91a2a8da9
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_52
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 203
+        width: 40
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc47d60c3b3f14c9fbc21047f2aec8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_53
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 202
+        width: 31
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa36fd2d45b3384881983905a465cb0
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_54
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 201
+        width: 40
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab63678916d0dd94fb03a14532a11ce3
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_55
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 200
+        width: 36
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70ecadc44f43a4c8f78f08249fbd42
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 106
+        width: 43
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf8b1fc58cb734ab7fe3d8a63ae5ed
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 118
+        width: 65
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5fd0dcd1eebba42b39febd4dd51d1d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_62
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 142
+        width: 65
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45974a1fad274db469b73ded5fa0e4c7
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_64
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 146
+        width: 65
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108430b0074b4974898321dbe6882013
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 48
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4803cdf0517724183e4825d66a3a6e
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_68
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 108
+        width: 59
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45311702e31b84ead40f8775d59e5c
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 130
+        width: 64
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9af4e861ce3744197340a7b109247f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 11
+        width: 53
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a9a5d37f52bc49885f3dbe699c005
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 10
+        width: 58
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8aea8859931ae4a98d1bdb1cc129d6
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_73
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 21
+        width: 64
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7831865ffd051a3469878c614edf6890
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 29
+        width: 70
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e568a7f8d249b9143956bc16960a5ae0
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_75
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 38
+        width: 70
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717f3c6e4b3a2074d93bb0707f22e993
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Former Commando_76
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 50
+        width: 72
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c274b727f4bf4e4e9d0cbe5a6ea1e77
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a75607348a55174c95103d28f8202a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

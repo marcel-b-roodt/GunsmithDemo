@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: 754ae8f846fc3524db0a2e50ae385bef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC Computer - Doom Doom II - Hell Knight_0
+  - first:
+      213: 21300002
+    second: PC Computer - Doom Doom II - Hell Knight_1
+  - first:
+      213: 21300004
+    second: PC Computer - Doom Doom II - Hell Knight_2
+  - first:
+      213: 21300006
+    second: PC Computer - Doom Doom II - Hell Knight_3
+  - first:
+      213: 21300008
+    second: PC Computer - Doom Doom II - Hell Knight_4
+  - first:
+      213: 21300010
+    second: PC Computer - Doom Doom II - Hell Knight_5
+  - first:
+      213: 21300012
+    second: PC Computer - Doom Doom II - Hell Knight_6
+  - first:
+      213: 21300014
+    second: PC Computer - Doom Doom II - Hell Knight_7
+  - first:
+      213: 21300016
+    second: PC Computer - Doom Doom II - Hell Knight_8
+  - first:
+      213: 21300018
+    second: PC Computer - Doom Doom II - Hell Knight_9
+  - first:
+      213: 21300020
+    second: PC Computer - Doom Doom II - Hell Knight_10
+  - first:
+      213: 21300022
+    second: PC Computer - Doom Doom II - Hell Knight_11
+  - first:
+      213: 21300024
+    second: PC Computer - Doom Doom II - Hell Knight_12
+  - first:
+      213: 21300026
+    second: PC Computer - Doom Doom II - Hell Knight_13
+  - first:
+      213: 21300028
+    second: PC Computer - Doom Doom II - Hell Knight_14
+  - first:
+      213: 21300030
+    second: PC Computer - Doom Doom II - Hell Knight_15
+  - first:
+      213: 21300032
+    second: PC Computer - Doom Doom II - Hell Knight_16
+  - first:
+      213: 21300034
+    second: PC Computer - Doom Doom II - Hell Knight_17
+  - first:
+      213: 21300036
+    second: PC Computer - Doom Doom II - Hell Knight_18
+  - first:
+      213: 21300038
+    second: PC Computer - Doom Doom II - Hell Knight_19
+  - first:
+      213: 21300040
+    second: PC Computer - Doom Doom II - Hell Knight_20
+  - first:
+      213: 21300042
+    second: PC Computer - Doom Doom II - Hell Knight_21
+  - first:
+      213: 21300044
+    second: PC Computer - Doom Doom II - Hell Knight_22
+  - first:
+      213: 21300046
+    second: PC Computer - Doom Doom II - Hell Knight_23
+  - first:
+      213: 21300048
+    second: PC Computer - Doom Doom II - Hell Knight_24
+  - first:
+      213: 21300050
+    second: PC Computer - Doom Doom II - Hell Knight_25
+  - first:
+      213: 21300052
+    second: PC Computer - Doom Doom II - Hell Knight_26
+  - first:
+      213: 21300054
+    second: PC Computer - Doom Doom II - Hell Knight_27
+  - first:
+      213: 21300056
+    second: PC Computer - Doom Doom II - Hell Knight_28
+  - first:
+      213: 21300058
+    second: PC Computer - Doom Doom II - Hell Knight_29
+  - first:
+      213: 21300060
+    second: PC Computer - Doom Doom II - Hell Knight_30
+  - first:
+      213: 21300062
+    second: PC Computer - Doom Doom II - Hell Knight_31
+  - first:
+      213: 21300064
+    second: PC Computer - Doom Doom II - Hell Knight_32
+  - first:
+      213: 21300066
+    second: PC Computer - Doom Doom II - Hell Knight_33
+  - first:
+      213: 21300068
+    second: PC Computer - Doom Doom II - Hell Knight_34
+  - first:
+      213: 21300070
+    second: PC Computer - Doom Doom II - Hell Knight_35
+  - first:
+      213: 21300072
+    second: PC Computer - Doom Doom II - Hell Knight_36
+  - first:
+      213: 21300074
+    second: PC Computer - Doom Doom II - Hell Knight_37
+  - first:
+      213: 21300076
+    second: PC Computer - Doom Doom II - Hell Knight_38
+  - first:
+      213: 21300078
+    second: PC Computer - Doom Doom II - Hell Knight_39
+  - first:
+      213: 21300080
+    second: PC Computer - Doom Doom II - Hell Knight_40
+  - first:
+      213: 21300082
+    second: PC Computer - Doom Doom II - Hell Knight_41
+  - first:
+      213: 21300084
+    second: PC Computer - Doom Doom II - Hell Knight_42
+  - first:
+      213: 21300086
+    second: PC Computer - Doom Doom II - Hell Knight_43
+  - first:
+      213: 21300088
+    second: PC Computer - Doom Doom II - Hell Knight_44
+  - first:
+      213: 21300090
+    second: PC Computer - Doom Doom II - Hell Knight_45
+  - first:
+      213: 21300092
+    second: PC Computer - Doom Doom II - Hell Knight_46
+  - first:
+      213: 21300094
+    second: PC Computer - Doom Doom II - Hell Knight_47
+  - first:
+      213: 21300096
+    second: PC Computer - Doom Doom II - Hell Knight_48
+  - first:
+      213: 21300098
+    second: PC Computer - Doom Doom II - Hell Knight_49
+  - first:
+      213: 21300100
+    second: PC Computer - Doom Doom II - Hell Knight_50
+  - first:
+      213: 21300102
+    second: PC Computer - Doom Doom II - Hell Knight_51
+  - first:
+      213: 21300104
+    second: PC Computer - Doom Doom II - Hell Knight_52
+  - first:
+      213: 21300106
+    second: PC Computer - Doom Doom II - Hell Knight_53
+  - first:
+      213: 21300108
+    second: PC Computer - Doom Doom II - Hell Knight_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 641
+        width: 52
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda2025b5c6e5a3479ecc5ead2c94366
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 642
+        width: 41
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac999d01dcb2a46adbda76ffa17b17
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 644
+        width: 42
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c63094ce708d4e803503b36009a22
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 646
+        width: 52
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0613cfca7108ce4ba85598c9f8b1f12
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 648
+        width: 45
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e46ef556c7f694faa8a66e73465158
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 648
+        width: 41
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d0570c82f6414daae55174a2a21ef
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 648
+        width: 41
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040afe67d30a094c8801e9f6b27c75e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 646
+        width: 50
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2018108f5a2440abd39f0e5de9aa1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 534
+        width: 49
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bccb60f680a0c4f83e80b53ef9996a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 536
+        width: 41
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331bee8017ac83e4a97115d0a67f4d24
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 538
+        width: 44
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f20bda534013c44aa165a42e7c5765
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 540
+        width: 44
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1643e2f33f5063c4486df3eb016e9581
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 541
+        width: 47
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08842dd732f54be499fcffc210c80ba5
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 540
+        width: 38
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99f5c4e3815f240941ab5b9872cab2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 536
+        width: 44
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f858ddd6c3874c8101b8e4f74e435
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 534
+        width: 48
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0a9ecb4af7e8459e2d59dcc0e5b37
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 431
+        width: 65
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09131e8333638549a4cd487e1b8a5a1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 429
+        width: 34
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04211822de740f40acede372a14f44f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 435
+        width: 56
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2139cc8aa8dfcf47a08dc96ad34e46e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 435
+        width: 59
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8affb52b52304a93c5330901095d9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 430
+        width: 64
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617d01b11b5ba6459b6e5db4d8184b9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 425
+        width: 49
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a70ec3442edd48836ff64a2af24c1
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 424
+        width: 43
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7fcb0b15dd0a4090944dafc5f09ed
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 422
+        width: 62
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de5c14b53b9664594e15e14b34c007
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 319
+        width: 69
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004a8003407dd9443b620f6b4441a359
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 319
+        width: 60
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff29389141cb642a8283410238aa47
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 321
+        width: 51
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdb462a83cd9104181e37558e29bbc5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 322
+        width: 54
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85df12aa5afa714daad9ab835738e51
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 325
+        width: 59
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e30e38c19ade04ba234fbc3c81a0e6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 323
+        width: 61
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c44a13d0918c4abd37839409e8feb
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 321
+        width: 44
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0d30b23e6ac34686de9570180d102
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 319
+        width: 54
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e5379ff11445a409e0d2ece15837d9
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 222
+        width: 53
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31217431f6507974abeae4ededff0cac
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 222
+        width: 61
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef627cd3ef5bf824a80e5ad0ea16aa14
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 224
+        width: 49
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ee9d2016d6c048a7f07d43685b4d1
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 227
+        width: 49
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bafda4c7462ac4bbf64fb780c72acf
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 229
+        width: 61
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38eff8abb91fd14582960d4232395f6
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 228
+        width: 52
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49a99606c8e714bb45ad3f940b10b4
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_38
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 225
+        width: 46
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d08077103e586040875eae2037d56d9
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_39
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 226
+        width: 56
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078981a7221d554ab03adb5c2c2311c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 117
+        width: 50
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bcee7a217ec874c9961a00c8d8d319
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 116
+        width: 51
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02d005c5d3e0454eb678dca35f7ab78
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_42
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 118
+        width: 47
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e388ef87f0e30f45bfcce4d20861e80
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 122
+        width: 49
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c014a96de266acd4eb34f15ad473af99
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_44
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 124
+        width: 47
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496845fefd5acd44a77f8d43ac94f39
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_45
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 123
+        width: 40
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08491ec636e989d4289c86a0e3558a95
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_46
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 119
+        width: 44
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3d4973420fbf941a32aba596f9e74f
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_47
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 117
+        width: 44
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511623d74d40884eade3b73073a4c80
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 48
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a99a65ff7e7a64ebe6a202dfabcab9
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 55
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47abba8c5e8246545ac3a1ee924b55a9
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 29
+        width: 56
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847926a03bf279d4c88b8cd4e04754a4
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 47
+        width: 59
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac0310f4e4fdbc479e78d79e69ec0d4
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_52
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 53
+        width: 60
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778547525073cb447b70a136a9edae57
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_53
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 52
+        width: 60
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747b4674692cb9e4eb25f409cea86023
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Hell Knight_54
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 52
+        width: 60
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6aa444322c3f6438feb21538328e8a
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3bf8fd379894d6a45bce206153443e6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

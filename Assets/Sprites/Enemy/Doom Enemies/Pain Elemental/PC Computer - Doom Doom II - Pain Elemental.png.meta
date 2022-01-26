@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: 0f170b0dfa206b54a8d25b80e389de43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC Computer - Doom Doom II - Pain Elemental_0
+  - first:
+      213: 21300002
+    second: PC Computer - Doom Doom II - Pain Elemental_1
+  - first:
+      213: 21300004
+    second: PC Computer - Doom Doom II - Pain Elemental_2
+  - first:
+      213: 21300006
+    second: PC Computer - Doom Doom II - Pain Elemental_3
+  - first:
+      213: 21300008
+    second: PC Computer - Doom Doom II - Pain Elemental_4
+  - first:
+      213: 21300010
+    second: PC Computer - Doom Doom II - Pain Elemental_5
+  - first:
+      213: 21300012
+    second: PC Computer - Doom Doom II - Pain Elemental_6
+  - first:
+      213: 21300014
+    second: PC Computer - Doom Doom II - Pain Elemental_7
+  - first:
+      213: 21300016
+    second: PC Computer - Doom Doom II - Pain Elemental_8
+  - first:
+      213: 21300018
+    second: PC Computer - Doom Doom II - Pain Elemental_9
+  - first:
+      213: 21300020
+    second: PC Computer - Doom Doom II - Pain Elemental_10
+  - first:
+      213: 21300022
+    second: PC Computer - Doom Doom II - Pain Elemental_11
+  - first:
+      213: 21300024
+    second: PC Computer - Doom Doom II - Pain Elemental_12
+  - first:
+      213: 21300026
+    second: PC Computer - Doom Doom II - Pain Elemental_13
+  - first:
+      213: 21300028
+    second: PC Computer - Doom Doom II - Pain Elemental_14
+  - first:
+      213: 21300030
+    second: PC Computer - Doom Doom II - Pain Elemental_15
+  - first:
+      213: 21300032
+    second: PC Computer - Doom Doom II - Pain Elemental_16
+  - first:
+      213: 21300034
+    second: PC Computer - Doom Doom II - Pain Elemental_17
+  - first:
+      213: 21300036
+    second: PC Computer - Doom Doom II - Pain Elemental_18
+  - first:
+      213: 21300038
+    second: PC Computer - Doom Doom II - Pain Elemental_19
+  - first:
+      213: 21300040
+    second: PC Computer - Doom Doom II - Pain Elemental_20
+  - first:
+      213: 21300042
+    second: PC Computer - Doom Doom II - Pain Elemental_21
+  - first:
+      213: 21300044
+    second: PC Computer - Doom Doom II - Pain Elemental_22
+  - first:
+      213: 21300046
+    second: PC Computer - Doom Doom II - Pain Elemental_23
+  - first:
+      213: 21300048
+    second: PC Computer - Doom Doom II - Pain Elemental_24
+  - first:
+      213: 21300050
+    second: PC Computer - Doom Doom II - Pain Elemental_25
+  - first:
+      213: 21300052
+    second: PC Computer - Doom Doom II - Pain Elemental_26
+  - first:
+      213: 21300054
+    second: PC Computer - Doom Doom II - Pain Elemental_27
+  - first:
+      213: 21300056
+    second: PC Computer - Doom Doom II - Pain Elemental_28
+  - first:
+      213: 21300058
+    second: PC Computer - Doom Doom II - Pain Elemental_29
+  - first:
+      213: 21300060
+    second: PC Computer - Doom Doom II - Pain Elemental_30
+  - first:
+      213: 21300062
+    second: PC Computer - Doom Doom II - Pain Elemental_31
+  - first:
+      213: 21300064
+    second: PC Computer - Doom Doom II - Pain Elemental_32
+  - first:
+      213: 21300066
+    second: PC Computer - Doom Doom II - Pain Elemental_33
+  - first:
+      213: 21300068
+    second: PC Computer - Doom Doom II - Pain Elemental_34
+  - first:
+      213: 21300070
+    second: PC Computer - Doom Doom II - Pain Elemental_35
+  - first:
+      213: 21300072
+    second: PC Computer - Doom Doom II - Pain Elemental_36
+  - first:
+      213: 21300074
+    second: PC Computer - Doom Doom II - Pain Elemental_37
+  - first:
+      213: 21300076
+    second: PC Computer - Doom Doom II - Pain Elemental_38
+  - first:
+      213: 21300078
+    second: PC Computer - Doom Doom II - Pain Elemental_39
+  - first:
+      213: 21300080
+    second: PC Computer - Doom Doom II - Pain Elemental_40
+  - first:
+      213: 21300082
+    second: PC Computer - Doom Doom II - Pain Elemental_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 760
+        width: 77
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c81d38ae483b5409f29c0ba2cdb9ac
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 762
+        width: 67
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c00b3cfbf3bb428b6c57ee53a0ac1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 761
+        width: 70
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d85361dc90afb94dab1fd59918b84c8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 762
+        width: 66
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d625dd91f7e1f428dce44dfb2e83d1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 764
+        width: 72
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3831f9ed9d0f4c8886a231d9827fe
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 670
+        width: 77
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2581725aeeea6fe41823a082ef43b442
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 672
+        width: 76
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd971458f278d8b49a85d687c5dfeec3
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 671
+        width: 70
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b187e47e669f499cd442ef7213685
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 672
+        width: 66
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782466acc1e68354481be163090e131f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 674
+        width: 77
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5686001310044c8ae8d094d784cbd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 580
+        width: 75
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149eb6ca6c5d91f4eb41cd89c573876a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 582
+        width: 78
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4ee918e90d164bb75a891017bd9fa
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 581
+        width: 70
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad632fff57f40e40be4d122db231200
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 582
+        width: 66
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f4d27d2fba97e4f918519abc3fa0c8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_14
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 584
+        width: 77
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b805ad99057a7c04e97af74b1326237a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 492
+        width: 89
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde86f54854ed6b4686564a0273390b2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 491
+        width: 80
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350c84f5b4ee2d4c8afda684732fa11
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 490
+        width: 71
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b01fb131c840489fdceaebf87fd18
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 491
+        width: 70
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c7aad7c53c4d41a4bd2d40f661fc3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 494
+        width: 72
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a0114d2d73e941bee93827b348aac
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 399
+        width: 88
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e11748dbb6b614b85f7f5f3a4863a9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 81
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bcde85afa5d34d813296b9e7fc841
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 396
+        width: 70
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf58364a5125644b8ed66c13298da9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 398
+        width: 70
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f92a7ec8e3f5f43913a438fbf3f251
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 401
+        width: 71
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744f74514e63be4f89835a661670780
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 303
+        width: 77
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe87d82f3bef654eb41bc5cd4837ffc
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 303
+        width: 82
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a692857d0474149aa032ca2472d9ad
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 299
+        width: 66
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f054f81807c8e47846faf1392084ee
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 302
+        width: 75
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42a75d2210cd69439bfb91c62a3e4cf
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 304
+        width: 73
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1301274d5435c469520328c1a44dda
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 209
+        width: 82
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688ccf1c3a80e94babbf8699dc6cac5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 211
+        width: 69
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89771d6158ef04184644429e9f0200
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 209
+        width: 71
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6b0c9e86f1c441a46cae6691fb964
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 210
+        width: 77
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aaa7577a7c9e443bc1d8946519ff0c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_34
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 213
+        width: 95
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d816b109a4cb4384e44054cac7ea5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 119
+        width: 82
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219995890ce37fe4d8fc1e476b6cb728
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 76
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e580a8d1d257f714993d84336ae5a02d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 120
+        width: 84
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4693816e5a674b8ccea948cc61c46
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 106
+        width: 97
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6ad2e3194c5e42ad5a30b4ede1f40
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_39
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 167
+        width: 6
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8356676d4478904d94a82bc399fd12a
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 87
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78160dcbecdfb844bb1a9f471f503d25
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Doom Doom II - Pain Elemental_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 10
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cdba06efbb6cf4c9c193eab36b83c6
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a38b41f05bed06b46abc9b304caa743a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
